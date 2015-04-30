@@ -10,6 +10,7 @@ public class JenkinsTest {
 FirefoxDriver driver= new FirefoxDriver();
 driver.get("http://www.google.com");
 	driver.quit();	
+//changes	
 	}
 
 }
